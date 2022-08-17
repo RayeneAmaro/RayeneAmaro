@@ -1,6 +1,6 @@
 👩‍💻 Trabalho atualmente como Programadora Jr. (Foco em Front-end);
 
-🧠 Estou aprendendo C, ReactJS e UI Design;
+🧠 Estou estudando UI Design e Javascript;
 
 📫 rayeneamaro@gmail.com
 
